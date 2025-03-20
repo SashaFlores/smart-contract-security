@@ -9,6 +9,6 @@ Repository Highlights 📚
 
 - Security Vulnerability Research: Each section contains real vulnerabilities I’ve identified and broken down, complete with mitigation strategies and practical code examples.
 - LinkedIn Security Challenges: These challenges are posted on LinkedIn to stimulate thought and encourage discussion within the Web3 security community.
-- Learning Resources and Roadmaps: A curated collection of articles, guides, and roadmaps to help you get started or level up in Web3 security and auditing.
+- Learning Resources and Roadmap: A curated collection of articles, guides, and roadmap to help you get started or level up in Web3 security and auditing.
 -Practical Roadmap for Aspiring Auditors: Step-by-step guidance on becoming a Web3 security auditor, with checkpoints and recommended learning paths.
 
