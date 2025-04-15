@@ -70,8 +70,8 @@ Welcome to the Smart Contract Security Cookbook! This repository is designed as 
   <details>
     <summary><b>Solidity Programming Language</b></summary>
     
-    - [Eggstravaganza](https://github.com/your-repo/2025-04-eggstravaganza) : Foundry and any EVM Blockchain.
-    - [Rock Paper Scissors](https://github.com/your-repo/2025-04-eggstravaganza) : Foundry and Ethereum Blockchain
+    - [Eggstravaganza](https://github.com/SashaFlores/EggStravaganza) : Foundry and any EVM Blockchain.
+    - [Rock Paper Scissors](TBD) : Foundry and Ethereum Blockchain
 
   </details>
 
